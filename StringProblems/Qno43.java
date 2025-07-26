@@ -1,18 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package StringProblems;
-
-/**
- *
- * @author Admin
- */
 public class Qno43 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         String str = "abaeae";
         System.out.println("Palindromic substrings:");

@@ -1,18 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package StringProblems;
 
-/**
- *
- * @author Admin
- */
 public class Qno45 {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         String input = "abcd";
         System.out.print("ASCII Differences: ");
