@@ -7,7 +7,7 @@ public class Qno04 {
         int n = 7;
         int d = 14;
         d = d%n;
-        for(int i=d;i<7;i++){
+        for(int i=d;i<n;i++){
             System.out.print(arr1[i]+" ");
         }
         for(int i=0;i<d;i++){

@@ -21,7 +21,7 @@ public class Qno46 {
             }
         }
         
-        int totalSum = ((max-min+1)*(max+min))/2;
+        int totalSum = ((max-min+1)*(max+min))/2; //Sum = (number of terms) * (first + last) / 2
         
         System.out.println(totalSum-sum);
     }

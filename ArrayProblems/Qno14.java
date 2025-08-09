@@ -5,7 +5,7 @@ public class Qno14 {
     public static void main(String[] args) {
         
         int[] arr = {2, 1, 6, 4};
-         int n = arr.length;
+        int n = arr.length;
         int res = 0;
         
         // Try removing each element one by one
